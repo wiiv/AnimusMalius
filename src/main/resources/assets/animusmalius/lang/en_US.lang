@@ -1,0 +1,61 @@
+#Blocks
+tile.mystery:sillyMachine.name=Silly Machinery
+tile.mystery:rainbow.name=Rainbow
+tile.mystery:chandelier.name=Chandelier
+tile.mystery:rotational.name=Rotational
+tile.mystery:weirdBomb.name=Weird Bomb
+tile.mystery:mine.name=Weird Mine
+tile.mystery:poisonOre.name=Poison Ore
+tile.mystery:poisonBlock.name=Block of Poison
+tile.mystery:alembic.name=Alembic
+tile.mystery:urn.name=Urn
+tile.mystery:rockSalt.name=Rock Salt
+
+#Items
+item.mystery:prism.name=Prism
+item.mystery:propellerWand.name=Propeller Wand
+item.mystery:handblaster.name=Handblaster
+item.mystery:droid.name=Droid
+item.mystery:creeperGoo.name=Creeper Goo
+item.mystery:spawner.name=Mob Spawner
+
+item.mystery:symbolCardBlank.name=Blank Card
+item.mystery:symbolCardArrow.name=Arrow Card
+item.mystery:symbolCardBox.name=Box Card
+item.mystery:symbolCardCross.name=Cross Card
+item.mystery:symbolCardCustom.name=Custom Card
+
+item.mystery:deathStonePlayer.name=Player Death Stone
+item.mystery:deathStoneCreeper.name=Creeper Death Stone
+item.mystery:deathStoneEnderman.name=Enderman Death Stone
+item.mystery:deathStoneZombiePigman.name=Zombie Pigman Death Stone
+item.mystery:deathStoneSkeleton.name=Skeleton Death Stone
+item.mystery:deathStoneBlaze.name=Blaze Death Stone
+
+#Creative Tabs
+itemGroup.wiiv's items=Wiiv's Items
+itemGroup.wiiv's blocks=Wiiv's Blocks
+itemGroup.wiiv's miscellaneous=Wiiv's Miscellaneous
+
+#Keys
+key.mystery.category=Mystery
+key.mystery.release=Release
+key.mystery.charge=Charge
+key.mystery.explode=Explode
+
+#GUI
+
+-WEIRD MACHINE
+
+gui.mm.machine.name=Anvil Machine
+gui.mm.machine.button.clear=Clear
+
+-MINE
+
+gui.mm.mine.timer=TIMER: %s ticks
+gui.mm.mine.button.reset=RESET
+gui.mm.mine.button.restart=RESTART
+
+-CAMO
+
+-CAKEBOX
